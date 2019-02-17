@@ -1,0 +1,3 @@
+rate=1.36
+lanecount=3
+environment=testing
